@@ -1,0 +1,8 @@
+.DS_Store
+projects/**/tmp
+tests/**/tmp
+.idea
+/build
+/vendor
+/source/Debug
+/source/Release
